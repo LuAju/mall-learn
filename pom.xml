@@ -21,5 +21,6 @@
     </parent>
     <properties>
         <swagger>2.8.0</swagger>
+        <lombok>1.16.18</lombok>
     </properties>
 </project>
